@@ -2,6 +2,7 @@
 title: Tables
 author: John Curtin
 html-table-processing: none
+prefer-html: true
 ---
 
 Need to code out some examples of making tables using kableExtra and built in data.  Plan is to export these tables as images to allow there use regardless of the document format used to publish the manuscript.
